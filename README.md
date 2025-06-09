@@ -21,12 +21,4 @@ Leveraging a Large Language Model to translate natural-language questions into p
 
 ## Repository Structure
 
-.
-├── README.md
-├── household_power_consumption.txt    # Raw dataset from UCI
-├── llm_queries_results.ipynb          # Notebook with:
-│   ├── Data loading and preprocessing
-│   ├── LLM-generated pandas code
-│   ├── Verified outputs & metrics
-│   └── Matplotlib visualizations
-└── llm_queries_prompts.ipynb          # Natural-language prompts
+<pre markdown> ```text . ├── README.md ├── household_power_consumption.txt # Raw dataset from UCI ├── llm_queries_results.ipynb # Notebook with: │ ├── Data loading and preprocessing │ ├── LLM-generated pandas code │ ├── Verified outputs & metrics │ └── Matplotlib visualizations └── llm_queries_prompts.ipynb # Natural-language prompts ``` </pre>
