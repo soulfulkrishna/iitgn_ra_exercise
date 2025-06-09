@@ -23,9 +23,9 @@ Leveraging a Large Language Model to translate natural-language questions into p
 
 README.md
 ├── household_power_consumption.txt # Raw dataset from UCI
-└── llm_queries.ipynb # Notebook with:
+└── llm_queries_results.ipynb # Notebook with:
       ├── Data loading and preprocessing
-      ├── Natural-language prompts
       ├── LLM-generated pandas code
       ├── Verified outputs & metrics
       └── Matplotlib visualizations
+├── llm_queries_prompts.ipynb # Natural-language prompts
